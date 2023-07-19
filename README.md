@@ -1,16 +1,4 @@
-<div align="center">
-  <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
-  </a>
-</div>
-
-[![npm][npm]][npm-url]
-[![node][node]][node-url]
-[![deps][deps]][deps-url]
-[![tests][tests]][tests-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
-[![size][size]][size-url]
+**IMPORTANT**: this is a minimalistic fork to solve the publicPath issues for the webpack-contrib/worker-loader project, the original url is [here](https://github.com/webpack-contrib/worker-loader).
 
 # worker-loader
 
